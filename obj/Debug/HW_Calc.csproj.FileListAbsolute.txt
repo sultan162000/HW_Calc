@@ -1,0 +1,9 @@
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\bin\Debug\AlifCalcv2.exe.config
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\bin\Debug\AlifCalcv2.exe
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\bin\Debug\AlifCalcv2.pdb
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\obj\Debug\AlifCalcv2.Form1.resources
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\obj\Debug\AlifCalcv2.Properties.Resources.resources
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\obj\Debug\HW_Calc.csproj.GenerateResource.cache
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\obj\Debug\HW_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\obj\Debug\AlifCalcv2.exe
+C:\Users\Sultan\source\repos\HW_Calc\AlifCalcv2\obj\Debug\AlifCalcv2.pdb
