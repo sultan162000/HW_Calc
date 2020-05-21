@@ -65,7 +65,7 @@ namespace AlifCalcv2
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("Ошибка!");
+                    Console.WriteLine("Ошибка");
                 }
                 number = "";
                 technique();
@@ -114,7 +114,7 @@ namespace AlifCalcv2
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine("Ошибка!");
+                    Console.WriteLine("Ошибка");
                 }
                 number = "";
                 technique();
